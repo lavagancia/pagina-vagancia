@@ -293,7 +293,14 @@ h3 span{
     
 
 @media screen and (max-width: 800px){
-
+    
+    .header{
+        width: 100%;
+    }
+    .container{
+        width: 100%;
+        height: auto;
+    }
 
     .main {
         width: 100%;
@@ -316,7 +323,7 @@ h3 span{
 
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 400px){
 
 
     .main {
