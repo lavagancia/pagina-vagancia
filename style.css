@@ -297,7 +297,7 @@ h3 span{
     
     header{
         display:table-row-group;
-        height: 14%;
+        height: 17%;
         width: 98%;
         top: 0;
         border-radius: 0;
@@ -321,8 +321,8 @@ h3 span{
 
     .section{
         width: 100%;
-        padding-top: 20%;
-        height: 848px;
+        padding-top: 25%;
+        height: 888px;
         
     }
     .aside {
