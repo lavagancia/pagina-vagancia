@@ -292,39 +292,25 @@ h3 span{
  }
     
 
-@media screen and (max-width: 800px){
+ @media screen and (max-width: 450px){
+
     
-    .header{
-        width: 100%;
+    header{
+        display:table-row-group;
+        height: 14%;
+        width: 98%;
+        top: 0;
+        border-radius: 0;
+        background-color: darkgreen;
+        justify-content: space-between;
+        align-items:center;
+        padding: 1%;
+        position: fixed;
+       
+    
+    
     }
-    .container{
-        width: 100%;
-        height: auto;
-    }
-
-    .main {
-        width: 100%;
-         display: inline-block;
-
-
-
-    }
-
-    .section{
-        width: 100%;
-        padding-top: 34%;
-    }
-    .aside {
-        width: 100%;
-    }
-   
-}
-
-
-
-
-@media screen and (max-width: 400px){
-
+    
 
     .main {
         width: 100%;
@@ -335,7 +321,9 @@ h3 span{
 
     .section{
         width: 100%;
-        padding-top: 33%;
+        padding-top: 20%;
+        height: 848px;
+        
     }
     .aside {
         width: 100%;
@@ -346,4 +334,15 @@ h3 span{
         
 }
 
+
+
+
+
+
+
+
 }
+
+
+    
+
