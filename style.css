@@ -332,11 +332,52 @@ h3 span{
         display: block;
         grid-template-columns:1fr 1fr;
         
+    }
+
 }
 
+@media screen and (max-width: 802px){
+
+    
+    header{
+        display:inline-flex;
+        height: 17%;
+        width: 98%;
+        top: 0;
+        border-radius: 0;
+        background-color: darkgreen;
+        justify-content: space-between;
+        align-items:center;
+        padding: 1%;
+        position: fixed;
+       
+    
+    
+    }
+    
+
+    .main {
+        width: 100%;
+         display:inline-flex;
 
 
+    }
 
+    .section{
+        width: 100%;
+        padding-top: 1%;
+        height: 860px;
+        
+    }
+    .aside {
+        width: 100%;
+        height: auto;
+    }
+    .container2 { 
+        display: block;
+        grid-template-columns:1fr 1fr;
+        
+}
 
 
 
