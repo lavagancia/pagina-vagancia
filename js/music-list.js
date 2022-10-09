@@ -17,10 +17,10 @@ let allMusic = [
       src: "banda"
     },
     {
-      name: "Ikson Anywhere – Ikson",
-      artist: "Audio Library",
-      img: "music-2",
-      src: "music-2"
+      name: "No me arrepiento de este amor",
+      artist: "la vagancia - potola",
+      img: "nomearrepiento",
+      src: "nomearrepiento"
     },
     {
       name: "Desde la cuna",
