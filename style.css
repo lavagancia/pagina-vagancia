@@ -70,6 +70,10 @@ body {
   background-color: #fdcfcf00;
 }
 
+.sidebar a{
+  color: white;
+}
+
 .audio{
   display: flow-root;
   color: white;
