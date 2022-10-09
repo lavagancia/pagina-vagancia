@@ -35,7 +35,7 @@ let allMusic = [
       src: "Orientisimo"
     },
     {
-      name: "Oriente Petolero 1971",
+      name: "Oriente Petrolero 1971",
       artist: "Los pascaneros",
       img: "taquirari1971",
       src: "taquirari1971"
