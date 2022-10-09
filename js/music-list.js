@@ -18,7 +18,7 @@ let allMusic = [
     },
     {
       name: "No me arrepiento de este amor",
-      artist: "la vagancia - potola",
+      artist: "La Vagancia - Potola",
       img: "nomearrepiento",
       src: "nomearrepiento"
     },
@@ -35,10 +35,10 @@ let allMusic = [
       src: "Orientisimo"
     },
     {
-      name: "Jim - Sun Goes Down",
-      artist: "Jim Yosef x Roy",
-      img: "music-5",
-      src: "music-5"
+      name: "Oriente Petolero 1971",
+      artist: "Los pascaneros",
+      img: "taquirari1971",
+      src: "taquirari1971"
     },
     {
       name: "mix los de siempre",
