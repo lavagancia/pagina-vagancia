@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: snap itc , cursive ;
+  font-family: snap itc , 'Goudy Bookletter 1911', serif;
   font-size: 1.2rem;
   min-height: 100%;
   background-image: url(./fotos/fondo22.jpg);
