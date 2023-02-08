@@ -152,6 +152,24 @@ audio::-internal-media-controls-download-button {
   height: 69px;
 }
 
+.face{
+    width: 20px;
+    height: 5px;
+  }  
+
+h5 {
+  align-self: center;
+  font-size: medium;
+  text-align: center;
+  letter-spacing: 2px;
+  
+
+}   
+.footer :hover{
+  color: white;
+}
+
+
 
 @media (min-width: 600px) {
   .grid-container {
