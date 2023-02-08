@@ -169,6 +169,7 @@ audio::-internal-media-controls-download-button {
   animation-name: change-color-face;
   animation-duration: 3s;
   animation-timing-function: linear;
+  animation-iteration-count: 10;
 }
 .footer__img-f{
   background-color: white;
