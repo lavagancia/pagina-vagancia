@@ -166,15 +166,16 @@ audio::-internal-media-controls-download-button {
   border-radius: 41%;
   margin: 4px;
   box-shadow: 0px 5px 10px rgb(0 0 0);
-  animation-name: change-color-face;
-  animation-duration: 3s;
-  animation-timing-function: linear;
-  animation-iteration-count: 10;
+ 
 }
 .footer__img-f{
   background-color: white;
   width: 30px;
   border-radius: 80%;
+  animation-name: change-color-face;
+  animation-duration: 3s;
+  animation-timing-function: linear;
+  animation-iteration-count: 50;
 
 }
 
