@@ -175,13 +175,13 @@ audio::-internal-media-controls-download-button {
   animation-name: change-color-face;
   animation-duration: 3s;
   animation-timing-function: linear;
-  animation-iteration-count: 50;
+  animation-iteration-count: 30;
 
 }
 
 @keyframes change-color-face{
   0%{
-    background: #0629d6;
+    background: #ffffff;
   }
   100% {
     background: #0629d6;
