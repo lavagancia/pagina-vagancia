@@ -151,24 +151,68 @@ audio::-internal-media-controls-download-button {
   width: 352px;
   height: 69px;
 }
+.footer__copyright{
+  color: rgb(3, 0, 0);
+  word-spacing: 5px;
+}
 
-.face{
-    width: 20px;
-    height: 5px;
-  }  
-
-h5 {
-  align-self: center;
-  font-size: medium;
-  text-align: center;
-  letter-spacing: 2px;
-  
-
-}   
 .footer :hover{
   color: white;
 }
+.footer__icons{
 
+  font-size: 4px;
+  padding: 2px;
+  border-radius: 41%;
+  margin: 4px;
+  box-shadow: 0px 5px 10px rgb(0 0 0);
+  transition: .3s ease;
+}
+.footer__img-f{
+  background-color: white;
+  width: 30px;
+  border-radius: 80%;
+}
+.footer__img-f:hover{
+  background-color: #0629d6;
+  border-color: #0629d6;
+  color: white;
+  box-shadow: 0 0 15px #0629d6,
+              0 0 45px blue,
+              0 0 75px blue,
+              0 0 115px blue;
+
+}
+.footer__img-t{
+  background-color: white;
+  width: 30px;
+  border-radius: 80%;
+}
+.footer__img-t:hover{
+  background-color: #09c6f6;
+  border-color: #09c6f6;
+  color: white;
+  box-shadow: 0 0 15px #09c6f6,
+              0 0 45px #09c6f6,
+              0 0 75px #09c6f6,
+              0 0 115px #09c6f6;
+
+}
+.footer__img-y{
+  background-color: white;
+  width: 30px;
+  border-radius: 80%;
+}
+.footer__img-y:hover{
+  background-color: #ef0808;
+  border-color: #f60909;
+  color: white;
+  box-shadow: 0 0 15px #f60909,
+              0 0 45px #f60909,
+              0 0 75px #f60909,
+              0 0 115px #f60909;
+
+}
 
 
 @media (min-width: 600px) {
