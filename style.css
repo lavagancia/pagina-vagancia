@@ -166,13 +166,27 @@ audio::-internal-media-controls-download-button {
   border-radius: 41%;
   margin: 4px;
   box-shadow: 0px 5px 10px rgb(0 0 0);
-  transition: .3s ease;
+  animation-name: change-color-face;
+  animation-duration: 5s ease;
+  animation-timing-function: linear;
 }
 .footer__img-f{
   background-color: white;
   width: 30px;
   border-radius: 80%;
+
 }
+
+@keyframes change-color-face{
+  0%{
+    background: #0629d6;
+  }
+  100% {
+    background: #0629d6;
+  }
+}
+
+
 .footer__img-f:hover{
   background-color: #0629d6;
   border-color: #0629d6;
@@ -183,6 +197,9 @@ audio::-internal-media-controls-download-button {
               0 0 115px blue;
 
 }
+
+
+
 .footer__img-t{
   background-color: white;
   width: 30px;
