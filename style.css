@@ -173,7 +173,7 @@ audio::-internal-media-controls-download-button {
   width: 30px;
   border-radius: 80%;
   animation-name: change-color-face;
-  animation-duration: 3s;
+  animation-duration: 7s;
   animation-timing-function: linear;
   animation-iteration-count: 30;
 
@@ -206,7 +206,24 @@ audio::-internal-media-controls-download-button {
   background-color: white;
   width: 30px;
   border-radius: 80%;
+  animation-name: change-color-t;
+  animation-duration: 8s;
+  animation-timing-function: linear;
+  animation-iteration-count: 30;
 }
+
+
+@keyframes change-color-t{
+  0%{
+    background: #ffffff;
+  }
+  100% {
+    background: #09c6f6;
+  
+
+  }
+}
+
 .footer__img-t:hover{
   background-color: #09c6f6;
   border-color: #09c6f6;
@@ -221,7 +238,29 @@ audio::-internal-media-controls-download-button {
   background-color: white;
   width: 30px;
   border-radius: 80%;
+  animation-name: change-color-y;
+  animation-duration: 9s;
+  animation-timing-function: linear;
+  animation-iteration-count: 30;
 }
+
+
+@keyframes change-color-y{
+  0%{
+    background: #ffffff;
+  }
+  50% {background:#ef0808;
+
+  }
+  100% {
+    background: #f90101;
+  
+
+  }
+}
+
+
+
 .footer__img-y:hover{
   background-color: #ef0808;
   border-color: #f60909;
