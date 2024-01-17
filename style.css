@@ -17,7 +17,7 @@ html {
 body {
   font-family:'snap itc','Irish Grover','Goudy Bookletter 1911', serif;
   font-size: 1.2rem;
-  min-height: 100%;
+  min-height: 50%;
   background-image: url(./fotos/nuevofon.png);
 }
 
