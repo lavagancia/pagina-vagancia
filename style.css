@@ -34,6 +34,7 @@ body {
   background-color: #0d981b00;
   position: fixed;
   align-items: center;
+  justify-content: space-between;
  
 }
 .header img{
@@ -47,6 +48,7 @@ body {
   font-size: 33px;
   font-family: 'snap itc','Irish Grover' , 'Goudy Bookletter 1911', serif;  ;
   color: white;
+  text-shadow: #06061a;
 }  
 
 
