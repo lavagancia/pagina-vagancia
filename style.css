@@ -86,6 +86,7 @@ body {
   display: flow-root;
   color: white;
   text-shadow: 0.1em 0.1em 0.2em black;
+  
 
   
 }
@@ -137,13 +138,14 @@ background-color: rgb(241, 2, 2);
 
 
 
-audio::-internal-media-controls-download-button {
+audio::-internal-media-controls-button {
   display:none;
 }
 #reproductor{
 
   width: calc(100% + 16px); /* Ajústalo a tu gusto */
   height: 33px;
+  
 }
 
 .main img{

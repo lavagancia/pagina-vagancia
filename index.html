@@ -34,19 +34,19 @@
     </nav>
 
     <aside class="sidebar">
-        <div id="reproductorBox"></div>
+        <div id="reproductorBox" > 
+            
+        </div>
 
-        <select id="selectTrack" multiple onchange="cambiarTrack(this.options[this.selectedIndex]);">
-            <option path="./songs/aestoputos.mp3">Ah estos putos</option><br>
-            <option path="./songs/blomingquetal.mp3">bloming que tal </option>
-
-        </select><br>
+       <audio controls controlslist="nodownload">
+        <source src="./songs/aestoputos.mp3" type="audio/mp3">
+       </audio>
 
         <br>
         
         <br>
         <a href="index1.html" target="_blank"><mark> MAS MUSICA </mark> </a><br>
-        
+
         <div class="proximo">
             <marquee> PRÓXIMO PARTIDO SABADO <img src="#" width="320px" height="80" alt="#" border="1"></marquee>
         </div>
