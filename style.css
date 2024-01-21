@@ -159,8 +159,10 @@ audio::-internal-media-controls-button {
   height: 52px;
 }
 .footer__copyright{
-  color: rgb(3, 0, 0);
+  color: rgb(253, 250, 250);
   word-spacing: 5px;
+  font-family: initial;
+  text-shadow: 2px 2px black;
 }
 
 .footer :hover{
