@@ -189,7 +189,7 @@ audio::-internal-media-controls-download-button {
 }
 
 
-.footer__img-ti:hover{
+.footer__img-f:hover{
   background-color: #0629d6;
   border-color: #0629d6;
   color: white;
@@ -201,7 +201,7 @@ audio::-internal-media-controls-download-button {
 }
 
 .footer__img-ti{
-  background-color: #0e0404;
+  background-color: hsl(0, 11%, 96%);
   width: 30px;
   border-radius: 80%;
   animation-name: change-color-face;
@@ -216,16 +216,16 @@ audio::-internal-media-controls-download-button {
     background: #ffffff;
   }
   100% {
-    background: #0629d6;
+    background: hsl(0, 0%, 0%);
   }
 }
 
 
 .footer__img-ti:hover{
-  background-color: #0629d6;
-  border-color: #0629d6;
+  background-color: hsl(231, 58%, 5%);
+  border-color: #02040e;
   color: white;
-  box-shadow: 0 0 15px #0629d6,
+  box-shadow: 0 0 15px #02040d,
               0 0 45px blue,
               0 0 75px blue,
               0 0 115px blue;
