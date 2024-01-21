@@ -213,9 +213,9 @@ audio::-internal-media-controls-download-button {
 
 @keyframes change-color-titok{
   0%{
-    background: #eb0808;
+    background: #c6bcbc;
   }
-  50% {background:#ef0808;
+  50% {background:#faf2f2;
   }
   100% {
     background: hsl(0, 25%, 98%);
