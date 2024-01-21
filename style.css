@@ -226,7 +226,7 @@ audio::-internal-media-controls-download-button {
 .footer__img-ti:hover{
   background-color: hsl(0, 0%, 0%);
   border-color: hsl(240, 20%, 3%);
-  color: rgb(240, 231, 231);
+  color: rgb(7, 5, 5);
   box-shadow: 0 0 15px #02040d,
               0 0 45px rgb(3, 3, 16),
               0 0 75px #06061a,
