@@ -204,7 +204,7 @@ audio::-internal-media-controls-download-button {
   background-color: hsl(0, 11%, 96%);
   width: 30px;
   border-radius: 80%;
-  animation-name: change-color-face;
+  animation-name: change-color-titok;
   animation-duration: 7s;
   animation-timing-function: linear;
   animation-iteration-count: 30;
@@ -226,9 +226,9 @@ audio::-internal-media-controls-download-button {
   border-color: #02040e;
   color: white;
   box-shadow: 0 0 15px #02040d,
-              0 0 45px blue,
-              0 0 75px blue,
-              0 0 115px blue;
+              0 0 45px rgb(3, 3, 16),
+              0 0 75px #06061a,
+              0 0 115px rgb(6, 6, 21);
 
 }
 
