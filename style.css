@@ -33,6 +33,7 @@ body {
   grid-area: header;
   background-color: #0d981b00;
   position: fixed;
+  align-items: center;
  
 }
 .header img{
