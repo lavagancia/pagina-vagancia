@@ -213,10 +213,10 @@ audio::-internal-media-controls-download-button {
 
 @keyframes change-color-titok{
   0%{
-    background: #ffffff;
+    background: #010000;
   }
   100% {
-    background: hsl(0, 5%, 16%);
+    background: hsl(0, 25%, 98%);
   }
 }
 
