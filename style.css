@@ -189,7 +189,7 @@ audio::-internal-media-controls-download-button {
 }
 
 
-.footer__img-f:hover{
+.footer__img-ti:hover{
   background-color: #0629d6;
   border-color: #0629d6;
   color: white;
@@ -200,7 +200,37 @@ audio::-internal-media-controls-download-button {
 
 }
 
+.footer__img-ti{
+  background-color: #0e0404;
+  width: 30px;
+  border-radius: 80%;
+  animation-name: change-color-face;
+  animation-duration: 7s;
+  animation-timing-function: linear;
+  animation-iteration-count: 30;
 
+}
+
+@keyframes change-color-titok{
+  0%{
+    background: #ffffff;
+  }
+  100% {
+    background: #0629d6;
+  }
+}
+
+
+.footer__img-ti:hover{
+  background-color: #0629d6;
+  border-color: #0629d6;
+  color: white;
+  box-shadow: 0 0 15px #0629d6,
+              0 0 45px blue,
+              0 0 75px blue,
+              0 0 115px blue;
+
+}
 
 .footer__img-t{
   background-color: white;
