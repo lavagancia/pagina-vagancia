@@ -216,14 +216,14 @@ audio::-internal-media-controls-download-button {
     background: #ffffff;
   }
   100% {
-    background: hsl(0, 0%, 0%);
+    background: hsl(0, 5%, 16%);
   }
 }
 
 
 .footer__img-ti:hover{
   background-color: hsl(231, 58%, 5%);
-  border-color: #02040e;
+  border-color: hsl(229, 19%, 89%);
   color: white;
   box-shadow: 0 0 15px #02040d,
               0 0 45px rgb(3, 3, 16),
