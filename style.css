@@ -247,7 +247,7 @@ img.foto2 {
 
 
 .footer__img-ti:hover{
-  background-color: hsl(0, 0%, 0%);
+  background-color: hsl(0, 30%, 95%);
   border-color: hsl(240, 20%, 3%);
   color: rgb(7, 5, 5);
   box-shadow: 0 0 15px #02040d,
