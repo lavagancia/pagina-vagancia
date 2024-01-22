@@ -331,7 +331,7 @@ audio::-internal-media-controls-button {
       "header  header" 100px
       "navbar  navbar" 50px
       "sidebar main"   auto
-      "footer  footer" 68px /
+      "footer  footer" 152px /
       300px    auto;
   }
 
@@ -359,10 +359,10 @@ audio::-internal-media-controls-button {
 @media (min-width: 900px) {
   .grid-container {
     grid-template:
-      "header  header header"  100px
+      "header  header header"  92px
       "navbar  main   sidebar" auto
-      "footer  footer footer"  66px /
-      200px    auto   300px;
+      "footer  footer footer"  144px /
+      99px    auto   312px;
   }
 
   .header img{
@@ -394,7 +394,9 @@ audio::-internal-media-controls-button {
     color: white;
   }
 
- 
+ .header{
+  width: 100%;
+ }
   
 
 
