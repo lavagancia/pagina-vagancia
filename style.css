@@ -341,7 +341,7 @@ img.foto2 {
     grid-template:
       "header  header" 100px
       "navbar  navbar" 50px
-      "sidebar main"   auto
+      "sidebar main"   88%
       "footer  footer" 152px /
       150px    auto;
   }
