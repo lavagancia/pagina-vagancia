@@ -72,7 +72,10 @@ body {
   color: white;
 }
 
-
+.main h1{
+  color: #c00bb4;
+  text-shadow:2px 2px #fcfcfc;
+}
 .sidebar {
   grid-area: sidebar;
   background-color: #fdcfcf00;
