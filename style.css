@@ -401,7 +401,10 @@ audio::-internal-media-controls-button {
  .header{
   width: 100%;
  }
-  
+ audio {
+  width: 230px;
+  height: 23px;
+}
 
 
 
