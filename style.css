@@ -104,6 +104,10 @@ body {
   grid-area: main;
   background-color: #f5f5f504;
 }
+.main audio{
+  width: 295px;
+  height: 22px;
+}
 
 .footer {
   grid-area: footer;
