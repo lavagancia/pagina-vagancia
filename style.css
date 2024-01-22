@@ -354,6 +354,10 @@ audio::-internal-media-controls-button {
   width: 82px;
   height: 85px;
 }
+.header{
+  width: 100%;
+}
+
 }
 
 @media (min-width: 900px) {
