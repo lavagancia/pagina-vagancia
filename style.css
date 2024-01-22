@@ -72,6 +72,7 @@ body {
   color: white;
 }
 
+
 .main h1{
   color: #c00bb4;
   text-shadow:2px 2px #fcfcfc;
@@ -111,7 +112,7 @@ body {
 
 .footer {
   grid-area: footer;
-  background-color: #0a981f00;
+  background-color: #0bae23b0;
 }
 
 .grid-container {
@@ -157,10 +158,16 @@ audio::-internal-media-controls-button {
 }
 
 .main img{
-  width: 352px;
-  height: 230px;
+  width: 98%;
+  height: 50%;
 }
 
+img.foto1 {
+  height: 47%;
+}
+img.foto2 {
+  height: 19%;
+}
 .footer img{
   width: 52px;
   height: 52px;
